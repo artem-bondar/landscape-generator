@@ -1,0 +1,9 @@
+# User-specific files
+*.user
+
+# Build results
+[Xx]64/
+out/
+
+# Visual Studio cache/options directory
+.vs/
