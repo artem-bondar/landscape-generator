@@ -10,9 +10,9 @@ Select Debug target as `main.exe` and run it.
 
 ### Controls
 
- - `WASD` to navigate through landscape
- - `Space` to show/hide polygone grid
- - `Z` to show shadow map (can't hide it)
+- `WASD` to navigate through landscape
+- `Space` to show/hide polygone grid
+- `Z` to show shadow map (can't hide it)
 
 ## Screenshots
 
